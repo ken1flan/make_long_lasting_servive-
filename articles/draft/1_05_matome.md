@@ -18,5 +18,3 @@
     - aws
   - dependabot
     - CircleCIで追加課金された…！
-  - Railsのアップデート
-    - 手順通り
